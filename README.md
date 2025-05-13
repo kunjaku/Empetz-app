@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/rashidabdulla/Empetz-app.git
 ```
 
 **Step 2:**
@@ -31,7 +31,7 @@ Go to project root and execute the following command in console to get the requi
 flutter run
 ```
 
-## Boilerplate Features:
+## Empetz Features:
 
 * Splash
 * Login
@@ -44,3 +44,11 @@ flutter run
 * User Notifications
 * Dependency Injection
 * Dark Theme Support (new)
+
+### Libraries & Tools Used
+  * cupertino_icons
+  * image_picker
+  * shared_preferences
+  * url_launcher
+  * flutter_launcher_icons
+  * change_app_package_name
