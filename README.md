@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/rashidabdulla/Empetz-app.git
+https://github.com/kunjaku/Empetz-app.git
 ```
 
 **Step 2:**
