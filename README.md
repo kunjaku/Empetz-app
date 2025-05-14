@@ -30,6 +30,8 @@ Go to project root and execute the following command in console to get the requi
 ```
 flutter run
 ```
+![1](https://github.com/user-attachments/assets/105af1d1-3548-4eaf-9409-b2644986ba2f)
+
 
 ## Empetz Features:
 
@@ -44,6 +46,7 @@ flutter run
 * User Notifications
 * Dependency Injection
 * Dark Theme Support (new)
+  
 
 ### Libraries & Tools Used
   * cupertino_icons
